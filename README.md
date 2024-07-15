@@ -14,5 +14,5 @@ docker run --rm \
  -e RCLONE_CONFIG_R2_ACL=private \
  -e RCLONE_CONFIG_R2_NO_CHECK_BUCKET=true \ 
  -e PG_URL= \
- ghcr.io/reynadi/psql-s3-backup:latest
+ ghcr.io/reynadi531/psql-s3-backup:latest
 ```
